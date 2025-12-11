@@ -9,7 +9,7 @@ apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.gj.arcoredraw"
+        applicationId "com.jjl.arcoredraw"
         minSdkVersion 24
         targetSdkVersion 28
         versionCode 3
